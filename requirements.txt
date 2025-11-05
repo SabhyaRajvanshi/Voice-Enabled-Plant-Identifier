@@ -1,10 +1,5 @@
 fastapi
 uvicorn
-pillow
 requests
 gtts
-pyttsx3
-opencv-python-headless
-SpeechRecognition
-sounddevice
-wavio
+python-multipart
